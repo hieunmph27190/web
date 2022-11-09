@@ -5,9 +5,10 @@ html, body {
     background: #000;
     overflow-x: hidden;
     overflow-y: hidden;
-    background: linear-gradient(-45deg, #d0d870, #2c6c9a, #46788f, #5bbaa7);
+    /* background: linear-gradient(-45deg, #d0d870, #2c6c9a, #46788f, #5bbaa7); */
     animation: gradient 8s ease infinite;
     background-size: 400% 400%;
+    background : black
 }
   
 canvas {
